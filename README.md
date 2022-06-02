@@ -1,4 +1,4 @@
-![Workflow](https://github.com/Student1-23817418/pipelines-dotnet-core-fork/blob/master/.github/workflows/dotnet.yml/badge.svg)
+![workflow](https://github.com/Student1-23817418/pipelines-dotnet-core-fork/actions/workflows/dotnet.yml/badge.svg)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
