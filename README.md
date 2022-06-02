@@ -1,4 +1,5 @@
 ![workflow](https://github.com/Student1-23817418/pipelines-dotnet-core-fork/actions/workflows/dotnet.yml/badge.svg)
+arbitrary change
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
